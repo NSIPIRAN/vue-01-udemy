@@ -6,7 +6,11 @@ import viteLogo from '/vite.svg'
 //import './bases/02-object';
 //import './bases/03-arrays';
 //import './bases/04-functions';
-import './bases/07-imp-exp';
+//import './bases/07-imp-exp';
+// import './bases/08-promises';
+// import './bases/09-fetch-api';
+// import './bases/10-axios';
+import './bases/11-async-await';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
